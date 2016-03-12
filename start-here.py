@@ -10,7 +10,8 @@ ans=True
 while ans:
 
     print
-    print("Main Menu")
+    print("Main Menu | If You Haven't Done So,")
+    Print("Exit This Program And Run As Root.")
     print '===================================='
     print("1. Scan The Network")
     print("2. Scan An IP Address")
